@@ -1,2 +1,1 @@
-# 37
-e
+# project-template-kangaroo-2
